@@ -14,11 +14,11 @@
 ### Environment: WSL ubuntu virtual machine on windows10
 
 ### Corresponding commands:
-- Date
+- date
 - OS:cat /etc/issues | Kernel:uname -a | cat /proc/cpuinfo | cat /proc/meminfo
 - Disk Information: fdisk -l | df -h
 - uptime
-- service -status-all
+- service --status-all
 - ifconfig -a
 - netstat -rn
 - arp -a
