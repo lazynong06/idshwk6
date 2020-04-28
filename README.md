@@ -6,7 +6,7 @@
 > - hardware information
 > - uptime
 > - services information
-- - nic information
+> - nic information
 > - route information
 > - arp information
 > - information of processes
