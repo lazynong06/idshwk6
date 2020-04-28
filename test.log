@@ -1,0 +1,323 @@
+Tue Apr 28 21:12:38 CST 2020
+Ubuntu 18.04.4 LTS \n \l
+
+Linux DESKTOP-3C13OUJ 4.4.0-18362-Microsoft #476-Microsoft Fri Nov 01 16:53:00 PST 2019 x86_64 x86_64 x86_64 GNU/Linux
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 60
+model name	: Intel(R) Core(TM) i5-4200H CPU @ 2.80GHz
+stepping	: 3
+microcode	: 0xffffffff
+cpu MHz		: 2794.000
+cache size	: 256 KB
+physical id	: 0
+siblings	: 4
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 6
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave osxsave avx f16c rdrand lahf_lm abm fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid ibrs ibpb stibp ssbd
+bogomips	: 5588.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 60
+model name	: Intel(R) Core(TM) i5-4200H CPU @ 2.80GHz
+stepping	: 3
+microcode	: 0xffffffff
+cpu MHz		: 2794.000
+cache size	: 256 KB
+physical id	: 0
+siblings	: 4
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 6
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave osxsave avx f16c rdrand lahf_lm abm fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid ibrs ibpb stibp ssbd
+bogomips	: 5588.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+
+processor	: 2
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 60
+model name	: Intel(R) Core(TM) i5-4200H CPU @ 2.80GHz
+stepping	: 3
+microcode	: 0xffffffff
+cpu MHz		: 2794.000
+cache size	: 256 KB
+physical id	: 0
+siblings	: 4
+core id		: 1
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 6
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave osxsave avx f16c rdrand lahf_lm abm fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid ibrs ibpb stibp ssbd
+bogomips	: 5588.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+
+processor	: 3
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 60
+model name	: Intel(R) Core(TM) i5-4200H CPU @ 2.80GHz
+stepping	: 3
+microcode	: 0xffffffff
+cpu MHz		: 2794.000
+cache size	: 256 KB
+physical id	: 0
+siblings	: 4
+core id		: 1
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 6
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave osxsave avx f16c rdrand lahf_lm abm fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid ibrs ibpb stibp ssbd
+bogomips	: 5588.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 36 bits physical, 48 bits virtual
+power management:
+
+MemTotal:       12469308 kB
+MemFree:         8515256 kB
+Buffers:           34032 kB
+Cached:           188576 kB
+SwapCached:            0 kB
+Active:           167556 kB
+Inactive:         157876 kB
+Active(anon):     103104 kB
+Inactive(anon):    17440 kB
+Active(file):      64452 kB
+Inactive(file):   140436 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:      14573692 kB
+SwapFree:       14573692 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:        102824 kB
+Mapped:            71404 kB
+Shmem:             17720 kB
+Slab:              13868 kB
+SReclaimable:       6744 kB
+SUnreclaim:         7124 kB
+KernelStack:        2848 kB
+PageTables:         2524 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:      515524 kB
+Committed_AS:    3450064 kB
+VmallocTotal:     122880 kB
+VmallocUsed:       21296 kB
+VmallocChunk:      66044 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:      2048 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:       12280 kB
+DirectMap4M:      897024 kB
+
+Because I am using wsl in windows10, there is no output of partition information when I used command "fdisk -l"
+
+Filesystem      Size  Used Avail Use% Mounted on
+rootfs          112G   55G   57G  50% /
+none            112G   55G   57G  50% /dev
+none            112G   55G   57G  50% /run
+none            112G   55G   57G  50% /run/lock
+none            112G   55G   57G  50% /run/shm
+none            112G   55G   57G  50% /run/user
+cgroup          112G   55G   57G  50% /sys/fs/cgroup
+C:\             112G   55G   57G  50% /mnt/c
+D:\             466G  257G  210G  56% /mnt/d
+ 21:23:51 up 14 min,  0 users,  load average: 0.52, 0.58, 0.59
+ [ - ]  acpid
+ [ - ]  apparmor
+ [ - ]  atd
+ [ - ]  console-setup.sh
+ [ - ]  cron
+ [ - ]  cryptdisks-early
+ [ - ]  dbus
+ [ - ]  ebtables
+ [ + ]  irqbalance
+ [ + ]  iscsid
+ [ - ]  keyboard-setup.sh
+ [ - ]  kmod
+ [ - ]  lvm2
+ [ + ]  lvm2-lvmetad
+ [ + ]  lvm2-lvmpolld
+ [ - ]  lxcfs
+ [ - ]  lxd
+ [ - ]  mdadm
+ [ - ]  mdadm-waitidle
+ [ + ]  open-iscsi
+ [ - ]  open-vm-tools
+ [ - ]  procps
+ [ - ]  rsync
+ [ - ]  rsyslog
+ [ - ]  screen-cleanup
+ [ - ]  ssh
+ [ - ]  udev
+ [ - ]  ufw
+ [ - ]  unattended-upgrades
+ [ - ]  uuidd
+eth0: flags=64<RUNNING>  mtu 1500
+        inet 169.254.228.17  netmask 255.255.0.0
+        inet6 fe80::45e9:c200:c439:e411  prefixlen 64  scopeid 0xfd<compat,link,site,host>
+        ether 9c:5c:8e:2d:6b:94  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+eth1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.179.1  netmask 255.255.255.0  broadcast 192.168.179.255
+        inet6 fe80::a9a2:3564:b6c1:a967  prefixlen 64  scopeid 0xfd<compat,link,site,host>
+        ether 00:50:56:c0:00:01  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+eth2: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.253.1  netmask 255.255.255.0  broadcast 192.168.253.255
+        inet6 fe80::5971:136:107f:2d6a  prefixlen 64  scopeid 0xfd<compat,link,site,host>
+        ether 00:50:56:c0:00:08  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+eth3: flags=64<RUNNING>  mtu 1500
+        inet 169.254.91.187  netmask 255.255.0.0
+        inet6 fe80::b534:c2ea:1aa4:5bbb  prefixlen 64  scopeid 0xfd<compat,link,site,host>
+        ether 00:ff:ed:5a:9e:32  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+eth4: flags=64<RUNNING>  mtu 1500
+        inet 10.198.75.60  netmask 255.255.255.0
+        inet6 fe80::8958:5484:d333:69a6  prefixlen 64  scopeid 0xfd<compat,link,site,host>
+        ether 00:ff:01:e1:40:06  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+eth5: flags=64<RUNNING>  mtu 1400
+        inet 169.254.215.194  netmask 255.255.0.0
+        inet6 fe80::a9ba:6434:ee9f:d7c2  prefixlen 64  scopeid 0xfd<compat,link,site,host>
+        ether 00:ff:fd:53:f9:0f  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 1500
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0xfe<compat,link,site,host>
+        loop  (Local Loopback)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wifi0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.4  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 240e:351:b819:af00:f496:6592:bfa2:483f  prefixlen 64  scopeid 0x0<global>
+        inet6 240e:351:b819:af00:284d:895d:8f99:ddc6  prefixlen 128  scopeid 0x0<global>
+        inet6 fe80::f496:6592:bfa2:483f  prefixlen 64  scopeid 0xfd<compat,link,site,host>
+        ether 80:a5:89:ca:a3:87  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wifi1: flags=64<RUNNING>  mtu 1500
+        inet 169.254.176.31  netmask 255.255.0.0
+        inet6 fe80::c0c1:46e6:5f85:b01f  prefixlen 64  scopeid 0xfd<compat,link,site,host>
+        ether 12:a5:89:ca:a3:87  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wifi2: flags=64<RUNNING>  mtu 1500
+        inet 169.254.46.145  netmask 255.255.0.0
+        inet6 fe80::c59f:92a1:9546:2e91  prefixlen 64  scopeid 0xfd<compat,link,site,host>
+        ether 22:a5:89:ca:a3:87  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags   MSS Window  irtt Iface
+192.168.179.0   0.0.0.0         255.255.255.0   U         0 0          0 eth1
+192.168.179.1   0.0.0.0         255.255.255.255 U         0 0          0 eth1
+192.168.179.255 0.0.0.0         255.255.255.255 U         0 0          0 eth1
+224.0.0.0       0.0.0.0         240.0.0.0       U         0 0          0 eth1
+255.255.255.255 0.0.0.0         255.255.255.255 U         0 0          0 eth1
+192.168.253.0   0.0.0.0         255.255.255.0   U         0 0          0 eth2
+192.168.253.1   0.0.0.0         255.255.255.255 U         0 0          0 eth2
+192.168.253.255 0.0.0.0         255.255.255.255 U         0 0          0 eth2
+224.0.0.0       0.0.0.0         240.0.0.0       U         0 0          0 eth2
+255.255.255.255 0.0.0.0         255.255.255.255 U         0 0          0 eth2
+127.0.0.0       0.0.0.0         255.0.0.0       U         0 0          0 lo
+127.0.0.1       0.0.0.0         255.255.255.255 U         0 0          0 lo
+127.255.255.255 0.0.0.0         255.255.255.255 U         0 0          0 lo
+224.0.0.0       0.0.0.0         240.0.0.0       U         0 0          0 lo
+255.255.255.255 0.0.0.0         255.255.255.255 U         0 0          0 lo
+0.0.0.0         192.168.1.1     255.255.255.255 U         0 0          0 wifi0
+192.168.1.0     0.0.0.0         255.255.255.0   U         0 0          0 wifi0
+192.168.1.4     0.0.0.0         255.255.255.255 U         0 0          0 wifi0
+192.168.1.255   0.0.0.0         255.255.255.255 U         0 0          0 wifi0
+224.0.0.0       0.0.0.0         240.0.0.0       U         0 0          0 wifi0
+255.255.255.255 0.0.0.0         255.255.255.255 U         0 0          0 wifi0
+
+no arp file found when I used command arp -a on my wsl virtual machine
+
+
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0   8892   308 ?        -    21:09   0:00 /init
+root         -  0.0    -      -     - -        Ssl  21:09   0:00 -
+root         -  0.0    -      -     - -        Ssl  21:09   0:00 -
+root         6  0.0  0.0   8896   212 tty1     -    21:09   0:00 /init
+root         -  0.0    -      -     - -        Ss   21:09   0:00 -
+canon        7  0.0  0.0  17056  3772 tty1     -    21:09   0:00 -bash HOSTTYPE=x86_64 LANG=C.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/d/Anaconda:/mnt/d/Anaconda/Scripts:/mnt/d/Anaconda/Library/bin:/mnt/c/Users/17699/AppData/Local/Microsoft/WindowsApps:/mnt/d/Bandizip/:/mnt/d/Microsoft VS Code/bin:/mnt/c/MinGW/bin:/mnt/d/Fiddler TERM=xterm-256color WSLENV= NAME=DESKTOP-3C13OUJ HOME=/home/canon USER=canon LOGNAME=canon SHELL=/bin/bash WSL_DISTRO_NAME=Ubuntu
+canon        -  0.0    -      -     - -        S    21:09   0:00 -
+canon      550  0.0  0.0  17384  1952 tty1     -    21:29   0:00 ps auxwwem LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36: HOSTTYPE=x86_64 LESSCLOSE=/usr/bin/lesspipe %s %s LANG=C.UTF-8 OLDPWD=/home/canon/IDS/homework6 WSL_DISTRO_NAME=Ubuntu USER=canon PWD=/home/canon/IDS/homework6/idshwk6 HOME=/home/canon NAME=DESKTOP-3C13OUJ XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop SHELL=/bin/bash TERM=xterm-256color SHLVL=1 LOGNAME=canon PATH=/home/canon/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/d/Anaconda:/mnt/d/Anaconda/Scripts:/mnt/d/Anaconda/Library/bin:/mnt/c/Users/17699/AppData/Local/Microsoft/WindowsApps:/mnt/d/Bandizip/:/mnt/d/Microsoft VS Code/bin:/mnt/c/MinGW/bin:/mnt/d/Fiddler:/snap/bin WSLENV= LESSOPEN=| /usr/bin/lesspipe %s _=/bin/ps
+canon        -  0.0    -      -     - -        R    21:29   0:00 -
